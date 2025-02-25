@@ -1,6 +1,6 @@
 <img height=230 src="https://github.com/kendryte/k230_canmv/blob/main/images/CanMV_logo_800x260.png">
 
-**CanMV, 让 AIOT 更简单～**
+lvzhenhao---**CanMV, 让 AIOT 更简单～**
 
 CanMV 的目的是让 AIOT 编程更简单， 基于 [Micropython](http://www.micropython.org) 语法, 运行在[Canaan](https://www.canaan-creative.com/)强大的嵌入式AI SOC系列上。目前它在K230上运行。
 
